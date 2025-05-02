@@ -1,6 +1,6 @@
 <!-- Typing effect on name -->
 <h1 align="center">
-  Hi there, I'm <span><a href="https://github.com/YourUsername" target="_blank">Your Name</a></span> 
+  Hi there, I'm <span><a href="https://github.com/PranavDivade" target="_blank">Pranav Divade</a></span> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
@@ -12,43 +12,35 @@
 
 ### 👀 About Me
 - 🔭 I’m currently working on **Inventory Management**
-- 🌱 I’m learning **React Native, Django, MongoDB, Next.js, and more**
-- 👯 I’m looking to collaborate on **Web Development, Mobile Apps, and Machine Learning projects**
-- 💬 Ask me about **React, React Native, Python, MongoDB, TailwindCSS**
-- 📫 Reach me at **patilmanav22@gmail.com** or via [LinkedIn](https://www.linkedin.com/in/manav-patil)
+- 🌱 I’m learning **React Native, Django, MongoDB, and more**
+- 👯 I’m looking to collaborate on **Web Development, Mobile Apps, and Android Studio projects**
+- 💬 Ask me about **NextJS, React, Python, MongoDB, TailwindCSS**
+- 📫 Reach me at **divadepranav@gmail.com** or via [LinkedIn](https://www.linkedin.com/in/divadepranav)
 
 ---
 
-# Myself <a href='https://github.com/Reckadon'>Romit Mohane</a>👋!
-## Also known as Reckadon!😎
+# Myself <a href='https://github.com/PranavDivade'>Pranav Divade</a>👋!
+## Also known as PKD!😎
 
 - Artificial Intelligence student and Tech Geek👨‍💻! 
-- Done some Freelancing work too on <a target="blank" href='https://www.fiverr.com/reckadon?public_mode=true'>Fiverr</a>!
-- Currently learning and practicing [Librosa](https://librosa.org/doc/latest/index.html) 🎵🤖👨‍💻!
 - Interested in **Artificial Intelligence Applications in the dev space and Emergent Hardware for AI**
-- Sophomore at Indian Institute of Technology, Gandhinagar, department of Computer Science and Engineering 👨‍💻👨‍🎓
+- Sophomore at Saraswati College of Engineering, Kharghar, department of Computer Science and Engineering 👨‍💻👨‍🎓
 
 ---
 ####  Which Languages have I learned? ⬇
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,python,dart,cpp,c,go,cs,html,css)]()
+[![My Skills](https://skillicons.dev/icons?i=java,js,nextjs,nodejs,react,python,tailwindcss,cpp,c,html,css)]()
 
 <details >
   <summary>Which Frameworks or Libraries have I learned? ⬇</summary>
 <ul>
   <li><a href="https://react.dev/">ReactJS</a></li>
-  <li><a href="https://pytorch.org/">PyTorch</a></li>
-  <li><a href="https://expressjs.com/">ExpressJS</a></li>
-  <li><a href="https://astro.build/">Astro</a></li>
-  <li><a href="https://flask.palletsprojects.com/en/3.0.x/">Flask</a></li>
-  <li><a href="https://socket.io/">Socket.io</a></li>
-  <li><a href="https://pandas.pydata.org/">Pandas</a></li>
-  <li><a href="https://scikit-learn.org/stable/">scikit-Learn</a></li>
-  <li><a href="https://numpy.org">NumPy</a></li>
-  <li><a href="https://openjfx.io/">JavaFX</a></li>
-  <li><a href="https://flutter.dev/">Flutter</a></li>
+  <li><a href="https://nodejs.org/en">NodeJS</a></li>
+  <li><a href="https://nextjs.org/">NextJS</a></li>
   <li><a href="https://developer.android.com/">Android Native</a></li>
-  <li><a href="https://www.chartjs.org/">Chart.js</a></li>
-  <li><a href="https://unity.com/">Unity (A Game Engine)</a></li>
+   <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
+  <li><a href="https://webpack.js.org/">Webpack</a></li>
+  <li><a href="https://www.typescriptlang.org/">TypeScript</a></li>
+
 </ul>
 </details>
 
